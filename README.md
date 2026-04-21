@@ -79,7 +79,7 @@ Architecture en couches : **Controller → Service → Repository**
 
 ## 📸 Swagger UI
 
-![Swagger UI](./swagger-screenshot.png)
+![Swagger UI](./Swagger.webp)
 
 ---
 
